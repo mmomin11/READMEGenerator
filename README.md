@@ -17,4 +17,3 @@ The README will answer questions regarding the app, from what is the app, how to
 - answer the questions. NOTE: Be sure to have a valid GitHub profile to generate the badge, along with a profile picture link. 
 
 
-<iframe src="https://drive.google.com/file/d/1PGYhdLGhhItr1ebQMBVqYKURPs6AAsmt/preview" width="640" height="480"></iframe>
