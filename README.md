@@ -18,4 +18,4 @@ The README will answer questions regarding the app, from what is the app, how to
 
 [Use this link to see functionality](https://drive.google.com/file/d/1PGYhdLGhhItr1ebQMBVqYKURPs6AAsmt/view).
 
-![Screenshot](Capture.PNG)
+![Screenshot](Develop/Capture.PNG)
