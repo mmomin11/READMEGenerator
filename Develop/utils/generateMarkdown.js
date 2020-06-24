@@ -1,13 +1,11 @@
 const generateMarkdown = data => {
   // return JSON.stringify(data)
   return `
-<a href="${data.link}" style="float:right"><img src="${data.avatar}" alt="${data.name}" title="${data.name}" width="120" height="120"></a>
+<a href="${data.link}" style="float:right"><img src="${data.avatar}" alt="${data.name}" title="${data.name}" width="150" height="150"></a>
 
 # ${data.title.toUpperCase()}
 
-![License: ${(data.lic) ? data.lic : 'None'}](https://img.shields.io/badge/License-${(data.lic) ? data.lic : 'None'}-brightgreen)
-
-_Repo by ${data.name}__
+_Repo by ${data.name}
 
 ${data.desc}
 
@@ -16,13 +14,16 @@ ${data.desc}
 ## Installation:
 ${data.inst}
 
-## Usage:__
+## Usage:
 ${data.use}
 
-## Contributors:__
+## Contributors:
 ${data.con}
 
-## Tests:__
+## Badges:
+![GitHub last commit](https://img.shields.io/github/last-commit/mmomin11/READMEGenerator)
+
+## Tests:
 ${data.test}
 `
 }
