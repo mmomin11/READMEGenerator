@@ -2,6 +2,8 @@ const prompt = require('inquirer').createPromptModule()
 const fs = require('fs');
 const generateMarkdown = require("./utils/generateMarkdown.js");
 
+const api = require("./utils/api.js")
+
 
 // prompt users to answer questions regarding the README
 
