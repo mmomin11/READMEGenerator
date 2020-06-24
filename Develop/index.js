@@ -1,7 +1,7 @@
-const inquirer = require("inquirer");
+const prompt = require('inquirer').createPromptModule()
 const fs = require('fs');
 const generateMarkdown = require("./utils/generateMarkdown.js");
-const axios = require("axios");
+
 
 // prompt users to answer questions regarding the README
 
