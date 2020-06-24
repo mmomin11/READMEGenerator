@@ -12,16 +12,16 @@ __${data.desc}__
 
 ---
 
-__Installation:__
+## Installation:
 ${data.inst}
 
-__Usage:__
+## Usage:__
 ${data.use}
 
-__Contributors:__
+## Contributors:__
 ${data.con}
 
-__Tests:__
+## Tests:__
 ${data.test}
 `
 }

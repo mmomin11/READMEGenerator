@@ -60,23 +60,18 @@ const writeToFile = (fileName, data) => {
       {
         type: 'input',
         name: 'rmLic',
-        message: 'What is the license?'
+        message: 'Any licenses?'
       },
       {
         type: 'input',
         name: 'con',
-        message: 'Who are the contributors?'
+        message: 'Are there any contributors to this app?'
       },
       {
         type: 'input',
         name: 'test',
         message: 'What are the tests?'
       },
-      {
-        type: 'input',
-        name: 'qs',
-        message: 'Any questions?'
-      }
     ]))
     writeToFile(rmObject.title, await generateMarkdown(rmObject))
   }

@@ -10,14 +10,14 @@ __null__
 
 ---
 
-__Installation:__
-Run NPM Install, ensure axios is included. If not, NPM Install axios. 
+## Installation:
+fsddsss
 
-__Usage:__
-Run the terminal in VS code, run Node index.js in the terminal to begin the questions for the README to be generated. Provide usernames and repository information to link README appropriately. 
+## Usage:__
+sssddf
 
-__Contributors:__
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+## Contributors:__
+fsdfsfdsf
 
-__Tests:__
-No Tests available
+## Tests:__
+fdsfdsfrd
