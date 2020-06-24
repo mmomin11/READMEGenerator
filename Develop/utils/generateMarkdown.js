@@ -5,7 +5,7 @@ const generateMarkdown = data => {
 
 # ${data.title.toUpperCase()}
 
-_Repo by ${data.name}
+_Repo by:_ ${data.name}
 
 ${data.desc}
 
@@ -14,14 +14,18 @@ ${data.desc}
 ## Installation:
 ${data.inst}
 
+
 ## Usage:
 ${data.use}
+
 
 ## Contributors:
 ${data.con}
 
+
 ## Badges:
 ![GitHub last commit](https://img.shields.io/github/last-commit/mmomin11/READMEGenerator)
+
 
 ## Tests:
 ${data.test}
