@@ -5,19 +5,20 @@
 
 ![License: None](https://img.shields.io/badge/License-None-brightgreen)
 
-_Repo by mmomin11_
+_Repo by mmomin11__
+
 __null__
 
 ---
 
-__Installation:__
-Run NPM Install, ensure axios is included. If not, NPM Install axios. 
+## Installation:
+fsdfsfds
 
-__Usage:__
-Run the terminal in VS code, run Node index.js in the terminal to begin the questions for the README to be generated. Provide usernames and repository information to link README appropriately. 
+## Usage:__
+fdsfsdf
 
-__Contributors:__
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+## Contributors:__
+fdsfsd
 
-__Tests:__
-No Tests available
+## Tests:__
+fdsfs
