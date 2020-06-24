@@ -5,19 +5,20 @@
 
 ![License: None](https://img.shields.io/badge/License-None-brightgreen)
 
-_Repo by mmomin11_
+_Repo by mmomin11__
+
 __null__
 
 ---
 
 ## Installation:
-fsddsss
+fsdfsfds
 
 ## Usage:__
-sssddf
+fdsfsdf
 
 ## Contributors:__
-fsdfsfdsf
+fdsfsd
 
 ## Tests:__
-fdsfdsfrd
+fdsfs

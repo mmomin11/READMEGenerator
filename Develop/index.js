@@ -44,7 +44,7 @@ const writeToFile = (fileName, data) => {
       },
       {
         type: 'input',
-        name: 'rmDesc',
+        name: 'desc',
         message: 'What is the project description?'
       },
       {
@@ -59,7 +59,7 @@ const writeToFile = (fileName, data) => {
       },
       {
         type: 'input',
-        name: 'rmLic',
+        name: 'lic',
         message: 'Any licenses?'
       },
       {

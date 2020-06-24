@@ -7,8 +7,9 @@ const generateMarkdown = data => {
 
 ![License: ${(data.lic) ? data.lic : 'None'}](https://img.shields.io/badge/License-${(data.lic) ? data.lic : 'None'}-brightgreen)
 
-_Repo by ${data.name}_
-__${data.desc}__
+_Repo by ${data.name}__
+
+${data.desc}
 
 ---
 
